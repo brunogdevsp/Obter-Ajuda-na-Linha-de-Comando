@@ -1,5 +1,5 @@
 🛡️ Obter Ajuda na Linha de Comando – Laboratório de Cibersegurança
-Este repositório documenta uma atividade prática realizada por BRUNO durante o curso de Cibersegurança oferecido pelo Google, em parceria com a Coursera e o CIEE (Centro de Integração Empresa-Escola).
+Este repositório documenta uma atividade prática realizada por mim durante o curso de Cibersegurança oferecido pelo Google, em parceria com a Coursera e o CIEE (Centro de Integração Empresa-Escola).
 
 O foco da atividade foi aprender a utilizar comandos do Linux para obter ajuda diretamente na linha de comando, uma habilidade essencial para profissionais que atuam com segurança da informação, infraestrutura e administração de sistemas.
 
