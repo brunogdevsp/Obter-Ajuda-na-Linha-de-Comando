@@ -1,0 +1,53 @@
+▶️ Como Executar
+Abra o terminal Linux
+
+Execute os comandos abaixo para testar:
+
+bash
+whatis cat
+man useradd
+apropos -a create new group
+Navegue pelas páginas do manual com:
+
+ENTER para linha a linha
+
+ESPAÇO para página seguinte
+
+Q para sair
+
+🛠️ Comandos Utilizados e Justificativas
+whatis
+bash
+whatis cat
+Por que usei: Para obter uma descrição rápida do comando cat, que concatena arquivos e exibe o conteúdo no terminal.
+
+man
+bash
+man useradd
+Por que usei: Para acessar o manual completo do comando useradd e descobrir que a opção -e define a data de expiração de uma conta.
+
+apropos
+bash
+apropos -a create new group
+Por que usei: Para pesquisar comandos relacionados à criação de grupos. O resultado foi o comando groupadd.
+
+whatis rm e whatis rmdir
+bash
+whatis rm
+whatis rmdir
+Por que usei: Para entender a diferença entre os dois comandos. Descobri que rmdir remove apenas diretórios vazios, enquanto rm remove arquivos e diretórios (com opções).
+
+🎓 Aprendizados
+Como obter ajuda diretamente no terminal usando man, whatis e apropos
+
+Como identificar comandos por função usando palavras-chave
+
+Como navegar por páginas de manual e interpretar opções
+
+Como aplicar esses recursos em situações reais de segurança e administração
+
+👤 Autor
+BRUNO Estudante de Cibersegurança Curso: Google Career Certificate – Cibersegurança Plataforma: Coursera Parceria: CIEE
+
+📄 Licença
+Este projeto é de caráter educacional e demonstrativo. Sinta-se livre para utilizar e adaptar com os devidos créditos.
